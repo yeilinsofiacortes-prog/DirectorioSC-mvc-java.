@@ -31,6 +31,7 @@ public class Producto {
         return String.format("SKU: %s | Nombre: %s | Cantidad: %d | Precio unitario: %.2f",
                 sku, nombre, cantidad, precio);
     }
+    private String color=" ";
 }
 
 

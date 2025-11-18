@@ -52,5 +52,5 @@ public class ControladorInventario {
             
         }
     }
-    private String color=" ";
+    
 }
