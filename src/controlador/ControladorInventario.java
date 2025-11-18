@@ -49,6 +49,7 @@ public class ControladorInventario {
                 default:
                     vista.mostrarMensaje("Opción inválida. Intente de nuevo.");
             }
+            private String color;
         }
     }
 }
